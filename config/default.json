@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://ritrime97:Holmes_20@devconnectorcluster-esuvg.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "cbb1b922958a2140a4f6",
+    "githubSecret": "a6a4458252f3a3aebbb4e272f831ae705ee3eaff"
 }
